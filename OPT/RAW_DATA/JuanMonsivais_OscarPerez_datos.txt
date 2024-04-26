@@ -1,0 +1,11 @@
+beneficios	pesos	volumenes	capacidades_peso	capacidades_volumen
+10	4	3	19	17
+20	2	7	22	20
+30	3	8	30	25
+40	4	9		
+50	5	10		
+67	8	1		
+12	11	7		
+34	4	7		
+28	3	12		
+19	4	13		
